@@ -1,0 +1,3 @@
+[submodule "plugins/dokan-pro"]
+	path = plugins/dokan-pro
+	url = https://github.com/sonDang612/dokan-pro.git
